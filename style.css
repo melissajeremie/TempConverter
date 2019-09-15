@@ -1,0 +1,126 @@
+body {
+  color: white;
+  background: linear-gradient(#ab3f65, #3f65ab) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; */
+}
+.container {
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  border: 2px solid #7c073c;
+  text-align: center;
+  font-family: 'Pompiere', cursive;
+}
+h1 {
+  font-size: 85px;
+  margin: 5px;
+  padding: 10px;
+  font-family: 'VT323', monospace;
+  text-align: center;
+  color: #ebf6f2;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+.temp-boxes {
+  margin: 20px;
+  padding: 15px;
+}
+
+.fTemp {
+  height: 38px;
+  width: 160px;
+  margin: 3px;
+  border: 1px solid #ff6767;
+  text-align: center;
+  font-family: 'Pompiere', cursive;
+  font-size: 20px;
+}
+.cTemp {
+  height: 38px;
+  width: 160px;
+  margin: 3px;
+  border: 1px solid #ff6767;
+  text-align: center;
+  font-family: 'Pompiere', cursive;
+  font-size: 20px;
+}
+.kTemp {
+  height: 38px;
+  width: 160px;
+  margin: 3px;
+  border: 1px solid #ff6767;
+  text-align: center;
+  font-family: 'Pompiere', cursive;
+  font-size: 20px;
+}
+
+.farenheit {
+  margin: 5px;
+  padding: 5px;
+}
+.celsius {
+  margin: 5px;
+  padding: 5px;
+}
+.kelvin {
+  margin: 5px;
+  padding: 5px;
+}
+.fTempButton {
+  height: 40px;
+  width: 160px;
+  color: #7c073c;
+  font-weight: bold;
+  background-color: #ebf6f2;
+  border: 2px solid #e9b6ca;
+  margin: 3px;
+  font-family: 'Pompiere', cursive;
+  font-size: 22px;
+}
+.cTempButton {
+  height: 40px;
+  width: 160px;
+  color: #7c073c;
+  font-weight: bold;
+  background-color: #ebf6f2;
+  border: 2px solid #e9b6ca;
+  margin: 3px;
+  font-family: 'Pompiere', cursive;
+  font-size: 22px;
+}
+.kTempButton {
+  height: 40px;
+  width: 160px;
+  color: #7c073c;
+  font-weight: bold;
+  background-color: #ebf6f2;
+  border: 2px solid #e9b6ca;
+  margin: 3px;
+  font-family: 'Pompiere', cursive;
+  font-size: 22px;
+}
+
+.results {
+  height: 220px;
+}
+.results h3 {
+  font-family: 'VT323',monospace;
+  font-size: 45px;
+  color: #ebf6f2;
+  margin: 10px;
+  text-transform: uppercase;
+}
+.results p {
+  font-family: 'Pompiere',monospace;
+  font-size: 34px;
+  font-weight: 600;
+  color: #e5b3e1;
+  margin: 10px;
+}
